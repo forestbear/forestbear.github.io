@@ -3,9 +3,9 @@
 
 
 
-![image](https://github.com/forestbear/testwebt.tt/raw/master/Screenshots/pic1.png)
-![image](https://github.com/forestbear/testwebt.tt/raw/master/Screenshots/pic2.png)
-![image](https://github.com/forestbear/testwebt.tt/raw/master/Screenshots/pic3.png)
+![image](https://github.com/forestbear/forestbear.github.io/raw/master/Screenshots/pic1.png)
+![image](https://github.com/forestbear/forestbear.github.io/raw/master/Screenshots/pic2.png)
+![image](https://github.com/forestbear/forestbear.github.io/raw/master/Screenshots/pic3.png)
 
 
 网站做出来只是测试~~~！
